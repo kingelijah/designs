@@ -1,0 +1,32 @@
+* {
+	margin:0;
+}
+html,body{
+	height:100%
+}
+h1,h2,h3,h4,h5,p {
+	margin-bottom:20px;
+}
+nav{
+	height:50px;
+	background-color:rgba(0,0,0,0.5);	
+}
+.sect{
+	height:100%;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+.subsection{
+	height:50%;
+	background-color:bisque;
+}
+.sectone{
+	background-image: url('images3/s.jpg');
+}
+.secttwo{
+	background-image: url('images3/sc.jpg');
+}
+.sectthree{
+	background-image: url('images3/scr.jpg');
+}
